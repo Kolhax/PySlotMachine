@@ -8,4 +8,4 @@ Feel free editing this code, no liscence on it, dont worry feel free, in fact te
 ![image](https://github.com/Kolhax/PySlotMachine/assets/92904192/a14f7c78-e8dd-4b29-8b86-cb71c0b6e67e)
 ## Credits
 - Made by Kepar
-discord: kepardev
+</br>discord: kepardev
